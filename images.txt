@@ -24,3 +24,6 @@ lscr.io/linuxserver/transmission
 ddsderek/mediaservertools:latest
 portainer/portainer-ce
 whyour/qinglong
+hslr/sun-panel:latest
+80x86/filebrowser
+80x86/qbittorrent:4.3.5-alpine-3.13.5-amd64
