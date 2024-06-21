@@ -23,6 +23,7 @@ cnk3x/xunlei:latest
 lscr.io/linuxserver/transmission
 ddsderek/mediaservertools:latest
 portainer/portainer-ce
+nyanmisaka/jellyfin:latest
 whyour/qinglong
 hslr/sun-panel:latest
 80x86/filebrowser
